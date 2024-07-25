@@ -1,0 +1,501 @@
+Continent,City,Country,Population (2023)
+Asia,Tokyo,Japan,37194105
+Asia,Delhi,India,32941309
+Asia,Shanghai,China,29210808
+Asia,Dhaka,Bangladesh,23209616
+Asia,Beijing,China,21766214
+Asia,Mumbai,India,21296517
+Asia,Osaka,Japan,19013434
+Asia,Chongqing,China,17340704
+Asia,Karachi,Pakistan,17236230
+Asia,Istanbul,Turkey,15847768
+Asia,Kolkata,India,15332793
+Asia,Manila,Philippines,14667089
+Asia,Guangzhou,China,14284353
+Asia,Tianjin,China,14238643
+Asia,Lahore,Pakistan,13979390
+Asia,Bangalore,India,13607800
+Asia,Shenzhen,China,13072633
+Asia,Moscow,Russia,12680389
+Asia,Chennai,India,11776147
+Asia,Jakarta,Indonesia,11248839
+Asia,Bangkok,Thailand,11069982
+Asia,Hyderabad,India,10801163
+Asia,Seoul,South Korea,9988049
+Asia,Nanjing,China,9698464
+Asia,Chengdu,China,9653772
+Asia,London,United Kingdom,9648110
+Asia,Nagoya,Japan,9569328
+Asia,Tehran,Iran,9499781
+Asia,Ho Chi Minh City,Vietnam,9320866
+Asia,Xi An Shaanxi,China,8785174
+Asia,Wuhan,China,8718250
+Asia,Ahmedabad,India,8650605
+Asia,Kuala Lumpur,Malaysia,8621724
+Asia,Hangzhou,China,8237206
+Asia,Suzhou,China,8074031
+Asia,Surat,India,8064949
+Asia,Baghdad,Iraq,7711305
+Asia,Hong Kong,Hong Kong,7684801
+Asia,Riyadh,Saudi Arabia,7682430
+Asia,Shenyang,China,7680967
+Asia,Foshan,China,7597386
+Asia,Dongguan,China,7587049
+Asia,Pune,India,7166374
+Asia,Haerbin,China,6803811
+Asia,Singapore,Singapore,6080859
+Asia,Dalian,China,6077995
+Asia,Qingdao,China,5986525
+Asia,Zhengzhou,China,5859272
+Asia,Ji Nan Shandong,China,5806031
+Asia,Yangon,Myanmar,5610241
+Asia,Saint Petersburg,Russia,5561294
+Asia,Fukuoka,Japan,5490271
+Asia,Ankara,Turkey,5397098
+Asia,Chittagong,Bangladesh,5379660
+Asia,Hanoi,Vietnam,5253385
+Asia,Changsha,China,4921487
+Asia,Urumqi,China,4865038
+Asia,Jiddah,Saudi Arabia,4862941
+Asia,Kunming,China,4761284
+Asia,Changchun,China,4710382
+Asia,Hefei,China,4615758
+Asia,Kabul,Afghanistan,4588666
+Asia,Shantou,China,4573713
+Asia,Ningbo,China,4537901
+Asia,New Taipei,Taiwan,4504147
+Asia,Tel Aviv,Israel,4420855
+Asia,Shijiazhuang,China,4370473
+Asia,Jaipur,India,4207084
+Asia,Nanning,China,4191890
+Asia,Taiyuan Shanxi,China,4145010
+Asia,Kozhikode,India,4088555
+Asia,Malappuram,India,4009087
+Asia,Changzhou,China,3981658
+Asia,Lucknow,India,3945409
+Asia,Xiamen,China,3935484
+Asia,Fuzhou Fujian,China,3922202
+Asia,Nanchang,China,3920379
+Asia,Wenzhou,China,3919724
+Asia,Tangshan Hebei,China,3814702
+Asia,Bekasi,Indonesia,3729351
+Asia,Faisalabad,Pakistan,3710845
+Asia,Guiyang,China,3580904
+Asia,Thrissur,India,3482456
+Asia,Busan,South Korea,3471949
+Asia,Wuxi,China,3437346
+Asia,Kochi,India,3406055
+Asia,Mashhad,Iran,3367852
+Asia,Indore,India,3302077
+Asia,Kuwait City,Kuwait,3297759
+Asia,Lanzhou,China,3297528
+Asia,Sanaa,Yemen,3292497
+Asia,Kanpur,India,3234160
+Asia,Pyongyang,North Korea,3157538
+Asia,Izmir,Turkey,3088414
+Asia,Nagpur,India,3046687
+Asia,Surabaya,Indonesia,3044413
+Asia,Depok,Indonesia,3041229
+Asia,Zhongshan,China,3010685
+Asia,Coimbatore,India,3009047
+Asia,Dubai,United Arab Emirates,3007583
+Asia,Handan,China,3005409
+Asia,Huaian,China,2979893
+Asia,Shizuoka,Japan,2937359
+Asia,Weifang,China,2917819
+Asia,Thiruvananthapuram,India,2891119
+Asia,Incheon,South Korea,2848557
+Asia,Shaoxing,China,2805654
+Asia,Zibo,China,2780142
+Asia,Yantai,China,2764584
+Asia,Huizhou,China,2758593
+Asia,Taipei,Taiwan,2754196
+Asia,Bandung,Indonesia,2674000
+Asia,Sapporo,Japan,2666112
+Asia,Tashkent,Uzbekistan,2603243
+Asia,Luoyang,China,2602793
+Asia,Damascus,Syria,2584771
+Asia,Patna,India,2579762
+Asia,Bhopal,India,2564502
+Asia,Tangerang,Indonesia,2514077
+Asia,Nantong,China,2492230
+Asia,Medan,Indonesia,2439054
+Asia,Baku,Azerbaijan,2432304
+Asia,Beirut,Lebanon,2421354
+Asia,Gujranwala,Pakistan,2415416
+Asia,Peshawar,Pakistan,2411785
+Asia,Hohhot,China,2380636
+Asia,Rawalpindi,Pakistan,2377325
+Asia,Agra,India,2367554
+Asia,Kannur,India,2346137
+Asia,Liuzhou,China,2343452
+Asia,Sendai,Japan,2342302
+Asia,Baotou,China,2334878
+Asia,Visakhapatnam,India,2330928
+Asia,Vadodara,India,2324084
+Asia,Taoyuan,Taiwan,2318850
+Asia,Xuzhou,China,2287166
+Asia,Phnom Penh,Cambodia,2281198
+Asia,Esfahan,Iran,2258396
+Asia,Nashik,India,2237369
+Asia,Amman,Jordan,2232240
+Asia,Vijayawada,India,2229765
+Asia,Aleppo,Syria,2203025
+Asia,Daegu,South Korea,2180997
+Asia,Putian,China,2176022
+Asia,Multan,Pakistan,2154600
+Asia,Mecca,Saudi Arabia,2149928
+Asia,Yangzhou,China,2131291
+Asia,Wuhu Anhui,China,2124797
+Asia,Baoding,China,2107539
+Asia,Kollam,India,2106606
+Asia,Taizhou Zhejiang,China,2102143
+Asia,Bursa,Turkey,2086324
+Asia,Linyi Shandong,China,2076364
+Asia,Hiroshima,Japan,2067591
+Asia,Rajkot,India,2043107
+Asia,Haikou,China,2016092
+Asia,Daqing,China,2000656
+Asia,Yancheng Jiangsu,China,1993463
+Asia,Almaty,Kazakhstan,1987301
+Asia,Lianyungang,China,1986439
+Asia,Semarang,Indonesia,1975306
+Asia,Hyderabad,Pakistan,1967684
+Asia,Ludhiana,India,1951085
+Asia,Davao City,Philippines,1949400
+Asia,Zhuhai,China,1889829
+Asia,Datong,China,1873693
+Asia,Quanzhou,China,1869994
+Asia,Can Tho,Vietnam,1865172
+Asia,Adana,Turkey,1835895
+Asia,Madurai,India,1834279
+Asia,Sharjah,United Arab Emirates,1830858
+Asia,Palembang,Indonesia,1818421
+Asia,Raipur,India,1816813
+Asia,Gaziantep,Turkey,1804704
+Asia,Meerut,India,1797805
+Asia,Mosul,Iraq,1792020
+Asia,Cixi,China,1788871
+Asia,Jiangmen,China,1768511
+Asia,Varanasi,India,1754425
+Asia,Batam,Indonesia,1748142
+Asia,Xiangyang,China,1742706
+Asia,Shiraz,Iran,1720954
+Asia,Yinchuan,China,1716591
+Asia,Yichang,China,1711244
+Asia,Srinagar,India,1698277
+Asia,Jamshedpur,India,1695060
+Asia,Novosibirsk,Russia,1694765
+Asia,Anshan,China,1689499
+Asia,Aurangabad,India,1683389
+Asia,Qinhuangdao,China,1680962
+Asia,Tiruppur,India,1677173
+Asia,Makassar,Indonesia,1673094
+Asia,Ulaanbaatar,Mongolia,1672627
+Asia,Jilin,China,1668785
+Asia,Xining,China,1666605
+Asia,Suqian,China,1664968
+Asia,Hengyang,China,1661854
+Asia,Tabriz,Iran,1660737
+Asia,Muscat,Oman,1650319
+Asia,Anyang,China,1642347
+Asia,Qiqihaer,China,1635458
+Asia,Karaj,Iran,1593608
+Asia,Jodhpur,India,1586547
+Asia,Daejon,South Korea,1577436
+Asia,Medina,Saudi Arabia,1572571
+Asia,Kathmandu,Nepal,1571010
+Asia,Jining Shandong,China,1569560
+Asia,Abu Dhabi,United Arab Emirates,1566999
+Asia,Gaoxiong,Taiwan,1552899
+Asia,Ranchi,India,1547258
+Asia,Zhangjiakou,China,1536171
+Asia,Mandalay,Myanmar,1531860
+Asia,Gwangju,South Korea,1529472
+Asia,Yekaterinburg,Russia,1527728
+Asia,Jabalpur,India,1522121
+Asia,Kota,India,1516795
+Asia,Huainan,China,1512668
+Asia,Asansol,India,1505033
+Asia,Chaozhou,China,1496298
+Asia,Yiwu,China,1483320
+Asia,Gwalior,India,1475016
+Asia,Allahabad,India,1465152
+Asia,Ganzhou,China,1459678
+Asia,Chon Buri,Thailand,1454222
+Asia,Amritsar,India,1451748
+Asia,Basra,Iraq,1448124
+Asia,Taizhou Jiangsu,China,1446810
+Asia,Homs,Syria,1443429
+Asia,Weihai,China,1429315
+Asia,Jiaxing,China,1424982
+Asia,Hai Phong,Vietnam,1422974
+Asia,Taian Shandong,China,1416064
+Asia,Konya,Turkey,1407632
+Asia,Kaifeng,China,1398262
+Asia,Rizhao,China,1391258
+Asia,Dhanbad,India,1389776
+Asia,Dongying,China,1379377
+Asia,Liuan,China,1378077
+Asia,Nanchong,China,1377572
+Asia,Zunyi,China,1376453
+Asia,Liuyang,China,1373523
+Asia,Zhanjiang,China,1371998
+Asia,Taizhong,Taiwan,1369066
+Asia,Suweon,South Korea,1365352
+Asia,Samut Prakan,Thailand,1358871
+Asia,Qom,Iran,1354174
+Asia,Shiyan,China,1354025
+Asia,Mianyang Sichuan,China,1351383
+Asia,Bareilly,India,1348664
+Asia,Antalya,Turkey,1347240
+Asia,Ad Dammam,Saudi Arabia,1329291
+Asia,Yingkou,China,1323174
+Asia,Tengzhou,China,1322916
+Asia,Aligarh,India,1312369
+Asia,Suzhou,China,1310433
+Asia,Fushun Liaoning,China,1304565
+Asia,Maoming,China,1303900
+Asia,Pekan Baru,Indonesia,1303355
+Asia,Moradabad,India,1301740
+Asia,Ahvaz,Iran,1293619
+Asia,Kazan,Russia,1291884
+Asia,Astana,Kazakhstan,1291280
+Asia,Mysore,India,1288245
+Asia,Jieyang,China,1282479
+Asia,Ruian,China,1281790
+Asia,Durg Bhilainagar,India,1266034
+Asia,Baoji,China,1261077
+Asia,Jinhua,China,1257941
+Asia,Bhubaneswar,India,1257642
+Asia,Pingdingshan Henan,China,1256581
+Asia,Zhuzhou,China,1254519
+Asia,Puning,China,1254160
+Asia,Chifeng,China,1252414
+Asia,Nizhniy Novgorod,Russia,1251332
+Asia,Zhenjiang Jiangsu,China,1250668
+Asia,Chelyabinsk,Russia,1240926
+Asia,Huaibei,China,1236271
+Asia,Islamabad,Pakistan,1232447
+Asia,Bogor,Indonesia,1231445
+Asia,Liupanshui,China,1230644
+Asia,Nanyang Henan,China,1224629
+Asia,Xiangtan Hunan,China,1223912
+Asia,Tiruchirappalli,India,1221960
+Asia,Da Nang,Vietnam,1220634
+Asia,Benxi,China,1216852
+Asia,Jinzhou,China,1215376
+Asia,Chandigarh,India,1214775
+Asia,Tasikmalaya,Indonesia,1213778
+Asia,Chiang Mai,Thailand,1213348
+Asia,Pizhou,China,1207275
+Asia,Binzhou,China,1200222
+Asia,Luohe,China,1197935
+Asia,Guilin,China,1196841
+Asia,Quetta,Pakistan,1190348
+Asia,Xiongan,China,1183042
+Asia,Hubli Dharwad,India,1181194
+Asia,Omsk,Russia,1180745
+Asia,Guwahati,India,1176330
+Asia,Bazhong,China,1175989
+Asia,Haifa,Israel,1174429
+Asia,Saharanpur,India,1171689
+Asia,Salem,India,1169953
+Asia,Yueqing,China,1169864
+Asia,Krasnoyarsk,Russia,1166792
+Asia,Bandar Lampung,Indonesia,1162242
+Asia,Samara,Russia,1155732
+Asia,Shimkent,Kazakhstan,1155073
+Asia,Ufa,Russia,1144799
+Asia,Xinxiang,China,1140599
+Asia,Rostov on Don,Russia,1138854
+Asia,Yongin,South Korea,1135671
+Asia,Zaozhuang,China,1133629
+Asia,Wenling,China,1131361
+Asia,Siliguri,India,1126249
+Asia,Fuyang,China,1120694
+Asia,Panjin,China,1120675
+Asia,Jalandhar,India,1118826
+Asia,Ma'anshan,China,1112680
+Asia,Bien Hoa,Vietnam,1110824
+Asia,Shangrao,China,1106736
+Asia,Goyang,South Korea,1105283
+Asia,Bishkek,Kyrgyzstan,1104742
+Asia,Zhaoqing,China,1103202
+Asia,Samarinda,Indonesia,1100324
+Asia,Fuzhou Jiangxi,China,1100271
+Asia,Diyarbakir,Turkey,1096937
+Asia,Yerevan,Armenia,1094813
+Asia,Jingzhou Hubei,China,1089886
+Asia,Leshan,China,1087409
+Asia,Johor Bahru,Malaysia,1086214
+Asia,Chenzhou,China,1084969
+Asia,Kermanshah,Iran,1084623
+Asia,Tbilisi,Georgia,1082245
+Asia,Perm,Russia,1081768
+Asia,Voronezh,Russia,1080808
+Asia,Dezhou,China,1080680
+Asia,Aden,Yemen,1079670
+Asia,Yichun Jiangxi,China,1078630
+Asia,Kirkuk,Iraq,1074884
+Asia,Solapur,India,1070322
+Asia,Mersin,Turkey,1069402
+Asia,Huzhou,China,1067651
+Asia,Xuchang,China,1063876
+Asia,Changshu,China,1059902
+Asia,Changwon,South Korea,1054442
+Asia,Denpasar,Indonesia,1053041
+Asia,Yueyang,China,1048889
+Asia,Qujing,China,1038964
+Asia,Padang,Indonesia,1033645
+Asia,Warangal,India,1031090
+Asia,Cebu City,Philippines,1024945
+Asia,Xintai,China,1023756
+Asia,Guiping,China,1020399
+Asia,Kayseri,Turkey,1013240
+Asia,Songkhla,Thailand,1005007
+Asia,Krasnodar,Russia,1001155
+Asia,Nonthaburi,Thailand,1000947
+Asia,Pingxiang Jiangxi,China,999721
+Asia,Hamah,Syria,995747
+Asia,Volgograd,Russia,995078
+Asia,Jixi Heilongjiang,China,993175
+Asia,Chengde,China,993097
+Asia,Dehradun,India,991876
+Asia,Zhucheng,China,991208
+Asia,Dushanbe,Tajikistan,986899
+Asia,Laiwu,China,986248
+Asia,Jiujiang,China,982777
+Asia,Leiyang,China,978327
+Asia,Mudanjiang,China,975348
+Asia,Jerusalem,Israel,969804
+Asia,Guigang,China,967428
+Asia,Sylhet,Bangladesh,964291
+Asia,Rajshahi,Bangladesh,961991
+Asia,Zamboanga City,Philippines,960349
+Asia,Najaf,Iraq,958487
+Asia,Yangjiang,China,956079
+Asia,Hengshui,China,955663
+Asia,Zhangzhou,China,955519
+Asia,Khulna,Bangladesh,955104
+Asia,Tianmen,China,953768
+Asia,Xinyu,China,952278
+Asia,Linfen,China,951822
+Asia,Pathum Thani,Thailand,950048
+Asia,Antipolo,Philippines,946653
+Asia,Bengbu,China,944465
+Asia,Seongnam,South Korea,941508
+Asia,Taiz,Yemen,940600
+Asia,Deyang,China,939166
+Asia,Liling,China,936997
+Asia,Jiangyin,China,933395
+Asia,Baishan,China,927532
+Asia,Bahawalpur,Pakistan,919654
+Asia,Malang,Indonesia,919443
+Asia,Guntur,India,918324
+Asia,Dandong,China,917936
+Asia,Ulsan,South Korea,912734
+Asia,Changzhi,China,910743
+Asia,Bhiwandi,India,906581
+Asia,Bogra,Bangladesh,905814
+Asia,Tyumen,Russia,903815
+Asia,Ashgabat,Turkmenistan,902353
+Asia,Liaoyang,China,900692
+Asia,Changde,China,898338
+Asia,Puducherry,India,897983
+Asia,Erbil,Iraq,896716
+Asia,Shangqiu,China,895111
+Asia,Firozabad,India,894388
+Asia,Xingtai,China,886381
+Asia,Huangshi,China,876930
+Asia,Fuxin,China,876131
+Asia,Kuerle,China,875496
+Asia,Hufuf Mubarraz,Saudi Arabia,872438
+Asia,Quzhou,China,871457
+Asia,Cherthala,India,870465
+Asia,Tainan,Taiwan,869625
+Asia,Yibin,China,864910
+Asia,Xinghua,China,861978
+Asia,Yongzhou,China,860522
+Asia,Luzhou,China,857683
+Asia,Ipoh,Malaysia,857225
+Asia,Xinyang,China,855191
+Asia,Yangquan,China,851630
+Asia,Xiaogan,China,849580
+Asia,Huaihua,China,843754
+Asia,Saratov,Russia,838377
+Asia,Tianshui,China,837479
+Asia,Orumiyeh,Iran,835900
+Asia,Zhuji,China,834782
+Asia,Eskisehir,Turkey,834065
+Asia,Bozhou,China,830125
+Asia,Bucheon,South Korea,826981
+Asia,Heze,China,826777
+Asia,Kunshan,China,826414
+Asia,Haicheng,China,821192
+Asia,Huludao,China,821132
+Asia,Kottayam,India,818628
+Asia,Bikaner,India,818566
+Asia,Jincheng,China,818057
+Asia,Nellore,India,816293
+Asia,Gebze,Turkey,813394
+Asia,Liaocheng,China,813369
+Asia,Taixing,China,811451
+Asia,Langfang,China,807833
+Asia,Zhumadian,China,804537
+Asia,Cagayan De Oro City,Philippines,803194
+Asia,Dasmarinas,Philippines,802600
+Asia,Nakhon Ratchasima,Thailand,801853
+Asia,Sulaimaniya,Iraq,800793
+Asia,Ar Rayyan,Qatar,798382
+Asia,Gaomi,China,797964
+Asia,Niigata,Japan,797865
+Asia,Meishan,China,796756
+Asia,Jiaozuo,China,796509
+Asia,Hanchuan,China,795835
+Asia,Amravati,India,792620
+Asia,Anqiu,China,791931
+Asia,Muzaffarnagar,India,791214
+Asia,Danyang,China,789755
+Asia,Gorakhpur,India,788276
+Asia,Kayamkulam,India,786192
+Asia,Shaoguan,China,784230
+Asia,Anqing,China,779535
+Asia,Gaza,Palestine,778187
+Asia,Linhai,China,776076
+Asia,Cuttack,India,775559
+Asia,Erduosi Ordoss,China,774321
+Asia,Ibb,Yemen,771514
+Asia,Banjarmasin,Indonesia,770959
+Asia,Zigong,China,768075
+Asia,Yan'an,China,767188
+Asia,Belgaum,India,767161
+Asia,Qingyuan,China,766782
+Asia,Ansan,South Korea,766703
+Asia,Malegaon,India,764628
+Asia,Shaoyang,China,761169
+Asia,Dengzhou,China,759150
+Asia,Yanji,China,757224
+Asia,Tongliao,China,756158
+Asia,Yuncheng,China,754711
+Asia,Sialkot,Pakistan,753325
+Asia,Tongling,China,752916
+Asia,Tirupati,India,752744
+Asia,Wuzhou,China,751679
+Asia,Yuxi,China,750102
+Asia,Suining Sichuan,China,750097
+Asia,Jiamusi,China,749763
+Asia,Mangalore,India,749073
+Asia,Zarqa,Jordan,748428
+Asia,Dazhou,China,748257
+Asia,Xianyang Shaanxi,China,743491
+Asia,Sargodha,Pakistan,741818
+Asia,Bacoor,Philippines,739682
+Asia,Nanded Waghala,India,738552
+Asia,Panzhihua,China,738495
+Asia,Dongtai,China,738200
+Asia,Bhavnagar,India,737128
+Asia,Al Hudaydah,Yemen,734699
+Asia,Zhangjiagang,China,733810
+Asia,Amara,Iraq,729276
+Asia,Nay Pyi Taw,Myanmar,722836

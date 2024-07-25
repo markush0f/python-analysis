@@ -1,0 +1,54 @@
+City,Country,Continent,Population (2024),Population (2023),Growth Rate
+Paris,France,Europe,11276701,11208440,0.0061
+Madrid,Spain,Europe,6783241,6751374,0.0047
+Barcelona,Spain,Europe,5711917,5687356,0.0043
+Rome,Italy,Europe,4331974,4315671,0.0038
+Berlin,Germany,Europe,3576873,3573938,0.0008
+Milan,Italy,Europe,3160631,3154570,0.0019
+Athens,Greece,Europe,3154591,3154463,0.0
+Kiev,Ukraine,Europe,3020228,3016789,0.0011
+Lisbon,Portugal,Europe,3014607,3000536,0.0047
+Birmingham,United Kingdom,Europe,2684807,2665100,0.0074
+Naples,Italy,Europe,2180027,2179384,0.0003
+Brussels,Belgium,Europe,2132178,2121992,0.0048
+Minsk,Belarus,Europe,2064733,2057257,0.0036
+Vienna,Austria,Europe,1990487,1975271,0.0077
+West Yorkshire,United Kingdom,Europe,1942470,1928661,0.0072
+Turin,Italy,Europe,1805727,1801944,0.0021
+Warsaw,Poland,Europe,1799451,1797516,0.0011
+Hamburg,Germany,Europe,1787280,1787520,-0.0001
+Budapest,Hungary,Europe,1780391,1778052,0.0013
+Lyon,France,Europe,1774395,1761188,0.0075
+Bucharest,Romania,Europe,1767520,1776385,-0.005
+Stockholm,Sweden,Europe,1719604,1700066,0.0115
+Marseille,France,Europe,1635707,1627549,0.005
+Munich,Germany,Europe,1584507,1576416,0.0051
+Zurich,Switzerland,Europe,1443349,1431538,0.0083
+Kharkiv,Ukraine,Europe,1418978,1421052,-0.0015
+Belgrade,Serbia,Europe,1410697,1408144,0.0018
+Copenhagen,Denmark,Europe,1391205,1381005,0.0074
+Helsinki,Finland,Europe,1346810,1337786,0.0067
+Porto,Portugal,Europe,1329301,1324652,0.0035
+Sofia,Bulgaria,Europe,1287540,1288114,-0.0004
+Dublin,Ireland,Europe,1284551,1270172,0.0113
+Amsterdam,Netherlands,Europe,1181817,1174025,0.0066
+Cologne,Germany,Europe,1149014,1143715,0.0046
+Oslo,Norway,Europe,1100868,1085992,0.0137
+Lille,France,Europe,1085199,1079120,0.0056
+Toulouse,France,Europe,1070746,1060460,0.0097
+Antwerp,Belgium,Europe,1061089,1057215,0.0037
+Rotterdam,Netherlands,Europe,1021919,1018012,0.0038
+Bordeaux,France,Europe,1009594,1000475,0.0091
+Odesa,Ukraine,Europe,1007596,1007716,-0.0001
+Nice,France,Europe,951808,948149,0.0039
+Dnipro,Ukraine,Europe,936766,941586,-0.0051
+Liverpool,United Kingdom,Europe,922871,917032,0.0064
+Bergamo,Italy,Europe,918675,913376,0.0058
+Donetsk,Ukraine,Europe,882209,887716,-0.0062
+Palermo,Italy,Europe,850233,849687,0.0006
+Valencia,Spain,Europe,839770,838301,0.0018
+Bologna,Italy,Europe,816848,814332,0.0031
+Thessaloniki,Greece,Europe,814980,814524,0.0006
+Frankfurt,Germany,Europe,800529,796437,0.0051
+Krakow,Poland,Europe,769396,769417,0.0
+Sheffield,United Kingdom,Europe,751303,745876,0.0073

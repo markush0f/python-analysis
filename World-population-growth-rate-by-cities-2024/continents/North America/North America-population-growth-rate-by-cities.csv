@@ -1,0 +1,64 @@
+City,Country,Continent,Population (2024),Population (2023),Growth Rate
+Mexico City,Mexico,North America,22505315,22281442,0.01
+New York,United States,North America,7931147,8133522,-0.0249
+Toronto,Canada,North America,6431430,6371958,0.0093
+Guadalajara,Mexico,North America,5499678,5419880,0.0147
+Monterrey,Mexico,North America,5195355,5116647,0.0154
+Montreal,Canada,North America,4341638,4307958,0.0078
+Los Angeles,United States,North America,3748640,3785439,-0.0097
+Puebla,Mexico,North America,3394342,3344761,0.0148
+Guatemala City,Guatemala,North America,3159631,3095099,0.0208
+Port Au Prince,Haiti,North America,3060169,2987455,0.0243
+Vancouver,Canada,North America,2682509,2657088,0.0096
+Toluca De Lerdo,Mexico,North America,2674336,2626368,0.0183
+Chicago,United States,North America,2590002,2627520,-0.0143
+San Juan,Puerto Rico,North America,2436620,2439564,-0.0012
+Houston,United States,North America,2305889,2304383,0.0007
+Tijuana,Mexico,North America,2297216,2259787,0.0166
+Panama City,Panama,North America,2015735,1976866,0.0197
+Leon De Los Aldamas,Mexico,North America,1924435,1898749,0.0135
+La Laguna,Mexico,North America,1826135,1780592,0.0256
+Phoenix,United States,North America,1676481,1660445,0.0097
+Calgary,Canada,North America,1665023,1639613,0.0155
+Tegucigalpa,Honduras,North America,1609261,1568025,0.0263
+Ciudad Juarez,Mexico,North America,1604085,1582313,0.0138
+Edmonton,Canada,North America,1567615,1544448,0.015
+Philadelphia,United States,North America,1533916,1550587,-0.0107
+San Antonio,United States,North America,1506593,1489751,0.0113
+San Jose,Costa Rica,North America,1482460,1461989,0.014
+Ottawa,Canada,North America,1451571,1437188,0.01
+Queretaro,Mexico,North America,1436818,1413474,0.0165
+San Diego,United States,North America,1375452,1378307,-0.0021
+Dallas,United States,North America,1295447,1297495,-0.0016
+San Luis Potosi,Mexico,North America,1292133,1273325,0.0148
+Merida,Mexico,North America,1239654,1220603,0.0156
+Mexicali,Mexico,North America,1196982,1178477,0.0157
+Aguascalientes,Mexico,North America,1179301,1161448,0.0154
+Cuernavaca,Mexico,North America,1140169,1123843,0.0145
+Chihuahua,Mexico,North America,1135342,1116295,0.0171
+San Salvador,El Salvador,North America,1123376,1116052,0.0066
+Managua,Nicaragua,North America,1107118,1094510,0.0115
+Tampico,Mexico,North America,1062567,1047251,0.0146
+Saltillo,Mexico,North America,1050320,1034126,0.0157
+Cancun,Mexico,North America,1045005,1022604,0.0219
+Acapulco De Juarez,Mexico,North America,1032772,1018976,0.0135
+San Pedro Sula,Honduras,North America,1008220,982021,0.0267
+Morelia,Mexico,North America,1002461,988744,0.0139
+Jacksonville,United States,North America,990931,981125,0.01
+Fort Worth,United States,North America,989842,973275,0.017
+Austin,United States,North America,983126,978786,0.0044
+Veracruz,Mexico,North America,968070,955226,0.0134
+Reynosa,Mexico,North America,967627,951417,0.017
+Villahermosa,Mexico,North America,958118,943530,0.0155
+San Jose,United States,North America,932636,951934,-0.0203
+Hermosillo,Mexico,North America,929961,915060,0.0163
+Charlotte,United States,North America,920325,909022,0.0124
+Tuxtla Gutierrez,Mexico,North America,913075,897694,0.0171
+Columbus,United States,North America,909676,908823,0.0009
+Culiacan,Mexico,North America,903910,888620,0.0172
+Indianapolis (balance),United States,North America,874089,877355,-0.0037
+Quebec City,Canada,North America,851061,844249,0.0081
+Winnipeg,Canada,North America,849251,841108,0.0097
+Xalapa,Mexico,North America,822863,811041,0.0146
+Hamilton,Canada,North America,786843,781047,0.0074
+Seattle,United States,North America,757992,753624,0.0058

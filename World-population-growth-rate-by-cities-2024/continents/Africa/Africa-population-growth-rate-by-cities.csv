@@ -1,0 +1,107 @@
+City,Country,Continent,Population (2024),Population (2023),Growth Rate
+Cairo,Egypt,Africa,22623874,22183201,0.0199
+Kinshasa,DR Congo,Africa,17032322,16315534,0.0439
+Lagos,Nigeria,Africa,16536018,15945912,0.037
+Luanda,Angola,Africa,9651032,9292336,0.0386
+Dar Es Salaam,Tanzania,Africa,8161231,7775865,0.0496
+Khartoum,Sudan,Africa,6542070,6344348,0.0312
+Johannesburg,South Africa,Africa,6324351,6198016,0.0204
+Abidjan,Ivory Coast,Africa,5866704,5686350,0.0317
+Addis Ababa,Ethiopia,Africa,5703628,5460591,0.0445
+Alexandria,Egypt,Africa,5696131,5588477,0.0193
+Nairobi,Kenya,Africa,5541172,5325160,0.0406
+Cape Town,South Africa,Africa,4977833,4890280,0.0179
+Yaounde,Cameroon,Africa,4681768,4509287,0.0383
+Kano,Nigeria,Africa,4490734,4348481,0.0327
+Douala,Cameroon,Africa,4203108,4063200,0.0344
+Ekurhuleni,South Africa,Africa,4190832,4118327,0.0176
+Kampala,Uganda,Africa,4050826,3846102,0.0532
+Antananarivo,Madagascar,Africa,4048666,3872264,0.0456
+Abuja,Nigeria,Africa,4025735,3839646,0.0485
+Ibadan,Nigeria,Africa,4004316,3874908,0.0334
+Casablanca,Morocco,Africa,3950408,3892837,0.0148
+Kumasi,Ghana,Africa,3903481,3768239,0.0359
+Port Harcourt,Nigeria,Africa,3636547,3480101,0.045
+Dakar,Senegal,Africa,3540462,3429536,0.0323
+Lusaka,Zambia,Africa,3324219,3181250,0.0449
+Durban,South Africa,Africa,3262128,3228003,0.0106
+Bamako,Mali,Africa,3050570,2929373,0.0414
+Mbuji Mayi,DR Congo,Africa,3022855,2891746,0.0453
+Algiers,Algeria,Africa,2952115,2901810,0.0173
+Lubumbashi,DR Congo,Africa,2933962,2811959,0.0434
+Pretoria,South Africa,Africa,2889899,2818100,0.0255
+Mogadishu,Somalia,Africa,2726815,2610483,0.0446
+Accra,Ghana,Africa,2721165,2660072,0.023
+Tunis,Tunisia,Africa,2510673,2475446,0.0142
+Conakry,Guinea,Africa,2178596,2110937,0.0321
+Havana,Cuba,Africa,2152518,2148930,0.0017
+Lome,Togo,Africa,2042734,1981615,0.0308
+Rabat,Morocco,Africa,1989197,1959388,0.0152
+Benin City,Nigeria,Africa,1972558,1904631,0.0357
+Matola,Mozambique,Africa,1915035,1852405,0.0338
+Kananga,DR Congo,Africa,1738716,1664442,0.0446
+Monrovia,Liberia,Africa,1735365,1678020,0.0342
+Onitsha,Nigeria,Africa,1694913,1623382,0.0441
+N Djamena,Chad,Africa,1655618,1592324,0.0397
+Harare,Zimbabwe,Africa,1603201,1578128,0.0159
+Nouakchott,Mauritania,Africa,1552146,1491958,0.0403
+Niamey,Niger,Africa,1496258,1437233,0.0411
+Mombasa,Kenya,Africa,1495223,1440396,0.0381
+Kisangani,DR Congo,Africa,1483513,1423395,0.0422
+Uyo,Nigeria,Africa,1393453,1329284,0.0483
+Mwanza,Tanzania,Africa,1378014,1310754,0.0513
+Tanger,Morocco,Africa,1348848,1314178,0.0264
+Freetown,Sierra Leone,Africa,1347559,1309168,0.0293
+Lilongwe,Malawi,Africa,1333096,1276316,0.0445
+Abomey Calavi,Benin,Africa,1314916,1252890,0.0495
+Fes,Morocco,Africa,1313311,1290039,0.018
+Port Elizabeth,South Africa,Africa,1312631,1295928,0.0129
+Bukavu,DR Congo,Africa,1308469,1248783,0.0478
+Nnewi,Nigeria,Africa,1300993,1239186,0.0499
+Kigali,Rwanda,Africa,1287952,1247551,0.0324
+Bujumbura,Burundi,Africa,1277050,1206767,0.0582
+Aba,Nigeria,Africa,1230407,1188803,0.035
+Kaduna,Nigeria,Africa,1221451,1187398,0.0287
+Maputo,Mozambique,Africa,1193253,1162793,0.0262
+Tripoli,Libya,Africa,1192436,1183292,0.0077
+Bobo Dioulasso,Burkina Faso,Africa,1185053,1128646,0.05
+Hargeysa,Somalia,Africa,1176617,1127198,0.0438
+Ikorodu,Nigeria,Africa,1145224,1093308,0.0475
+Tshikapa,DR Congo,Africa,1131226,1077108,0.0502
+Sekondi Takoradi,Ghana,Africa,1119534,1077929,0.0386
+Asmara,Eritrea,Africa,1111748,1072666,0.0364
+Nyala,Sudan,Africa,1101314,1056952,0.042
+Blantyre Limbe,Malawi,Africa,1070625,1030974,0.0385
+Marrakech,Morocco,Africa,1067172,1049690,0.0167
+Ilorin,Nigeria,Africa,1063713,1030498,0.0322
+Warri,Nigeria,Africa,1031425,986921,0.0451
+Owerri,Nigeria,Africa,1022922,983352,0.0402
+Nampula,Mozambique,Africa,1012582,969322,0.0446
+Misratah,Libya,Africa,1011119,984193,0.0274
+Lubango,Angola,Africa,1003016,958548,0.0464
+Jos,Nigeria,Africa,1001155,970129,0.032
+Agadir,Morocco,Africa,998146,979248,0.0193
+Oran,Algeria,Africa,950768,935947,0.0158
+West Rand,South Africa,Africa,947734,934341,0.0143
+Cabinda,Angola,Africa,947634,904676,0.0475
+Umuahia,Nigeria,Africa,947460,904139,0.0479
+Soshanguve,South Africa,Africa,905868,892254,0.0153
+Lokoja,Nigeria,Africa,885882,839046,0.0558
+Libreville,Gabon,Africa,883920,869773,0.0163
+Enugu,Nigeria,Africa,875552,846560,0.0342
+Banghazi,Libya,Africa,870502,859209,0.0131
+Maiduguri,Nigeria,Africa,870201,844747,0.0301
+Bunia,DR Congo,Africa,856339,812090,0.0545
+Benguela,Angola,Africa,843207,809468,0.0417
+Zanzibar,Tanzania,Africa,835850,800010,0.0448
+Malanje,Angola,Africa,822471,783243,0.0501
+Vereeniging,South Africa,Africa,802900,793927,0.0113
+Oshogbo,Nigeria,Africa,795808,771515,0.0315
+Merca,Somalia,Africa,793545,760129,0.044
+Bur Sa'id,Egypt,Africa,792925,778280,0.0188
+Kitwe,Zambia,Africa,792350,762981,0.0385
+Zaria,Nigeria,Africa,786197,766007,0.0264
+Goma,DR Congo,Africa,781875,744247,0.0506
+Akure,Nigeria,Africa,773141,744371,0.0387
+Tamale,Ghana,Africa,757506,729768,0.038
+Huambo,Angola,Africa,751297,727641,0.0325
