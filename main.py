@@ -15,3 +15,8 @@ for continent in continents:
     continent_path = os.path.join(base_path, continent)
     os.makedirs(continent_path, exist_ok=True)
     print(f"Carpeta creada en: {continent_path}")
+
+for continent in continents:
+    continent_path = os.path.join(base_path, continent)
+    os.makedirs(continent_path, exist_ok=True)
+    print(f"Carpeta creada en: {continent_path}")
